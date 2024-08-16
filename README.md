@@ -1,8 +1,8 @@
-Olá! Eu sou a Yasmim Silva👋
+## Olá! Eu sou a Yasmim Silva👋
 
 ![Yasmim GitHub stats](https://github-readme-stats.vercel.app/api?username=ysilvv&show_icons=true&theme=radical)
 
-Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,5 +17,3 @@ Tecnologias que eu uso no meu dia
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysilvv/ysilvv/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ysilvv/ysilvv/output/github-contribution-grid-snake.svg">
 </picture>
-
-Apaixonada por tecnologia desde meus 15 anos de idade, acredito que educação e força de querer mudam vidas! 
